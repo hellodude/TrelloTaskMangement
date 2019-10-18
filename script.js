@@ -1,5 +1,4 @@
-let key = "9f149d15f153d53681302c25383f4daa"
-let token = "ce64125f487029996796e4c1954c143f4f26516b8dee958dede385fb2cb25dab"
+
 let Boardid = "5d95b7fade237616f3e5cd1a"
 let Listid = "5d95b7fade237616f3e5cd1b"
 let cardid = "5d95c4fdce71ba6f5c823c8c"
